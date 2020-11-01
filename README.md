@@ -11,8 +11,8 @@ Para tanto, foram utilizados dados disponíveis no site do <a href="http://inep.
   
 Neste Repositório você encontrará:
 
-<b> 1  Imports </b>  </br></br>
-<b> 2  - Conhecendo o Dataset </b> </br></br>
+<b> 1 - Imports </b>  </br></br>
+<b> 2 - Conhecendo o Dataset </b> </br></br>
 <b> 3 - Notas das Provas</b> </br></br>
 <b> 4 - Assimetria </b> </br></br>
 <b> 5 - Distribuições e Correlações </b> </br> </br>
